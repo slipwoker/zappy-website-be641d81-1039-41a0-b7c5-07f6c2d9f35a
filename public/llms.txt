@@ -1,0 +1,57 @@
+# איתי בלב — Generative Engine Optimization Map
+
+> A ארגון ללא כוונת רווח / גיוס תרומות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-be641d81.zappy5.app
+איתי בלב - ארגון ללא כוונת רווח המסייע למשפחות נזקקות בישראל. תרמו עכשיו ועזרו לשנות חיים.
+
+### תחומי פעילות
+https://-be641d81.zappy5.app/services
+גלו את תחומי הפעילות של איתי בלב - סיוע כלכלי, תמיכה רגשית, הכשרה מקצועית ועוד. איך לתרום לאיתי בלב ולעזור למשפחות.
+
+### אודות
+https://-be641d81.zappy5.app/about
+הכירו את איתי בלב - הסיפור שלנו, הערכים שלנו, והמשימה לסייע למשפחות נזקקות בישראל דרך תרומות ישירות.
+
+### צור קשר
+https://-be641d81.zappy5.app/contact
+יצירת קשר עם איתי בלב - שאלות, תרומות, או בקשה לסיוע. איך לתרום לאיתי בלב ולהיות חלק מהשינוי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-be641d81.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-be641d81.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-be641d81.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About איתי בלב
+איתי בלב is a business in the ארגון ללא כוונת רווח / גיוס תרומות industry.
+
+## Target Audience
+תורמים פוטנציאליים, משפחה וחברים
+
+## Industry
+ארגון ללא כוונת רווח / גיוס תרומות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-be641d81.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-be641d81.zappy5.app/robots.txt
